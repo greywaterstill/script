@@ -1,3 +1,9 @@
+print("Ran")
+
+
+
+
+
 _Hawk = "ohhahtuhthttouttpwuttuaunbotwo"
 
 local Hawk = loadstring(game:HttpGet("https://raw.githubusercontent.com/TheHanki/HawkHUB/main/LibSources/HawkLib.lua", true))()
